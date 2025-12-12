@@ -10,7 +10,7 @@ export default function Home() {
             {/* Hero Image */}
             <div className="absolute inset-0 z-0">
               <Image
-                src="/gemini.png"
+                src="/landing_page.png"
                 alt="Beautiful turquoise lake surrounded by mountains"
                 fill
                 priority
@@ -25,10 +25,10 @@ export default function Home() {
             <main className="relative z-10 flex h-full flex-col items-center justify-center px-4 py-8 sm:px-8 sm:py-16">
               <div className="flex w-full max-w-4xl flex-col items-center gap-6 text-center sm:gap-8">
                 <h1 className="text-3xl font-bold leading-tight text-white drop-shadow-lg sm:text-4xl">
-                  Welcome to Nature's Beauty
+                  Welcome to Caregiver's Task Manager
                 </h1>
                 <p className="max-w-2xl text-lg leading-relaxed text-white/90 drop-shadow-md sm:text-xl">
-                  Discover the serene beauty of turquoise lakes and majestic mountains
+                  Personalised task management for caregivers
                 </p>
               </div>
             </main>
