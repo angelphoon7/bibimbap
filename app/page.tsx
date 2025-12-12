@@ -18,7 +18,7 @@ export default function Home() {
                 quality={90}
               />
               {/* Overlay for better text readability */}
-              <div className="absolute inset-0 bg-black/20 dark:bg-black/40" />
+              <div className="absolute inset-0 bg-black/10 dark:bg-black/20" />
             </div>
 
             {/* Content */}
